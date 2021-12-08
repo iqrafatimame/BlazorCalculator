@@ -1,0 +1,51 @@
+@page "/calculator"
+@inject IJSRuntime JS 
+    
+<PageTitle>Calculator</PageTitle>
+
+<div id="calculator">
+    <div class="top">
+    <input id="screen" />
+    </div>
+    <div class="keys">
+            <span class ="number" id="1" @onclick="@(() => AddElement("1"))" >1</span>
+            <span class ="number" id="2" @onclick="@(() => AddElement("2"))">2</span>
+            <span class ="number" id="3" @onclick="@(() => AddElement("3"))" >3</span>
+
+            <span class="operator" id ="+" @onclick="@(() => AddElement("+"))" >+</span>
+
+            <span class ="number" id="4" @onclick="@(() => AddElement("4"))" >4</span>
+            <span class ="number" id="5" @onclick="@(() => AddElement("5"))">5</span>
+            <span class ="number" id="6" @onclick="@(() => AddElement("6"))">6</span>
+
+            <span class="operator" id = "-" @onclick="@(() => AddElement("-"))" >-</span>
+
+            <span class ="number" id="7" @onclick="@(() => AddElement("7"))" >7</span>
+            <span class ="number" id="8" @onclick="@(() => AddElement("8"))" >8</span>
+            <span class ="number" id="9" @onclick="@(() => AddElement("9"))" >9</span>
+
+            <span class="operator" id = "*" @onclick="@(() => AddElement("*"))" >*</span>
+
+            <span class="operator" id="clear" @onclick="@(() => ClearScreen())" >C</span>
+
+            <span class ="number" id="0" @onclick="@(() => AddElement("0"))" >0</span>
+
+            <span class="eval" id="=" @onclick="@(() => EvaluateExpression())"> =</span>
+
+            <span class="operator" id="/" @onclick="@(() => AddElement("/"))" >/</span>
+    </div>
+</div>
+
+@code{ 
+    private async Task AddElement(String N){
+        await JS.InvokeVoidAsync("addElement", N);
+    }
+    private async Task ClearScreen(){
+        await JS.InvokeVoidAsync("clearScreen");
+    }
+    private async Task EvaluateExpression(){
+        await JS.InvokeVoidAsync("Evaluate");
+    }
+}
+
+
