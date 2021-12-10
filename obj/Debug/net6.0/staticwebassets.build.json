@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZLmzPrOiw+S+NzVXJkewFP5MQPopNM69MyYCdIvEmdY=",
+  "Hash": "uSo3FzrZ1vTFXqE6oPxgZsVoQGDcxQ4kzCP+6nJ8PsI=",
   "Source": "BlazorCalculator",
   "BasePath": "_content/BlazorCalculator",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorCalculator\\wwwroot",
       "Source": "BlazorCalculator",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorCalculator.styles.css",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorCalculator.styles.css",
       "SourceId": "BlazorCalculator",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "BlazorCalculator.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorCalculator.styles.css"
+      "OriginalItemSpec": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorCalculator.styles.css"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorCalculator.bundle.scp.css",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorCalculator.bundle.scp.css",
       "SourceId": "BlazorCalculator",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "BlazorCalculator.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorCalculator.bundle.scp.css"
+      "OriginalItemSpec": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorCalculator.bundle.scp.css"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\calculatorStyle.css",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\calculatorStyle.css",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/calculatorStyle.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\calculatorStyle.css"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\css\\site.css",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\css\\site.css",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\favicon.ico",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\favicon.ico",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\Script\\main.js",
+      "Identity": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\Script\\main.js",
       "SourceId": "BlazorCalculator",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\wwwroot\\",
+      "ContentRoot": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\wwwroot\\",
       "BasePath": "_content/BlazorCalculator",
       "RelativePath": "Script/main.js",
       "AssetKind": "All",

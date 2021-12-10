@@ -45,105 +45,6 @@
         }
       },
       {
-        "HashCode": -2061576986,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalculator.Pages.Counter",
-        "AssemblyName": "BlazorCalculator",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalculator.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1925429040,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalculator.Pages.Counter",
-        "AssemblyName": "BlazorCalculator",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalculator.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalculator.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1070175371,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalculator.Pages.FetchData",
-        "AssemblyName": "BlazorCalculator",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalculator.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1159617153,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalculator.Pages.FetchData",
-        "AssemblyName": "BlazorCalculator",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalculator.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalculator.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2010627240,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalculator.Pages.Index",
-        "AssemblyName": "BlazorCalculator",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalculator.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1819383200,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalculator.Pages.Index",
-        "AssemblyName": "BlazorCalculator",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalculator.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalculator.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1684300930,
         "Kind": "Components.Component",
         "Name": "BlazorCalculator.App",
@@ -173,39 +74,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorCalculator.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1208086436,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalculator.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorCalculator",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalculator.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 1119501542,
-        "Kind": "Components.Component",
-        "Name": "BlazorCalculator.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorCalculator",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorCalculator.Shared.SurveyPrompt"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorCalculator.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16562,23 +16430,8 @@
   "RootNamespace": "BlazorCalculator",
   "Documents": [
     {
-      "FilePath": "f:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "f:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "f:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "f:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
@@ -16609,11 +16462,6 @@
     {
       "FilePath": "f:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "f:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {

@@ -12,24 +12,21 @@
 
 #screen {
     float: right;
-
     height: 46px;
-    width: 315px;
-
-    padding: 0px 10px;
-
+    width: 270px;
     margin: 0px 10px;
     background: white;
-    box-shadow:  0px 4px rgba(12, 11, 11, 0.2);
-
+    /*box-shadow:  0px 4px rgba(12, 11, 11, 0.2);*/
     font-size: 17px;
     line-height: 40px;
     color: black;
-    
     text-align: right;
     letter-spacing: 1px;
 }
-
+input{
+    border: 2px solid #eee;
+    outline: none;
+}
 .keys, .top {
     overflow: hidden;
 }

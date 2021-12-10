@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGXdRwicjVpglwPC3Yy9a3Tmj3f3euwA8EG1JwPmyKUSCqOTMqxyy0pnEIihZVWh0ZpqrjnGKUbMDMJyHX7SQg==",
+  "dgSpecHash": "YeO6tOODSD2DQ/Z4DqCUyrBtF0d/aE7gyakqCI601OK3BzpqqiZqO3CDeLGrs+gtZPc52GbEC6BQJ3Q225z/pg==",
   "success": true,
-  "projectFilePath": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\BlazorCalculator.csproj",
+  "projectFilePath": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\BlazorCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

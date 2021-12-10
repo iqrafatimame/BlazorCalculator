@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\BlazorCalculator.csproj": {}
+    "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\BlazorCalculator.csproj": {}
   },
   "projects": {
-    "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\BlazorCalculator.csproj": {
+    "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\BlazorCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\BlazorCalculator.csproj",
+        "projectUniqueName": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\BlazorCalculator.csproj",
         "projectName": "BlazorCalculator",
-        "projectPath": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\BlazorCalculator.csproj",
+        "projectPath": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\BlazorCalculator.csproj",
         "packagesPath": "C:\\Users\\laptop Solutions\\.nuget\\packages\\",
-        "outputPath": "F:\\Technosoft\\CalculatorBlazor\\BlazorCalculator\\obj\\",
+        "outputPath": "F:\\Technosoft\\Blazor - calculator + todo\\BlazorCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laptop Solutions\\AppData\\Roaming\\NuGet\\NuGet.Config",

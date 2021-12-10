@@ -25,3 +25,30 @@ F:\Technosoft\CalculatorBlazor\BlazorCalculator\obj\Debug\net6.0\BlazorCalculato
 F:\Technosoft\CalculatorBlazor\BlazorCalculator\obj\Debug\net6.0\ref\BlazorCalculator.dll
 F:\Technosoft\CalculatorBlazor\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.pdb
 F:\Technosoft\CalculatorBlazor\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.genruntimeconfig.cache
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\bin\Debug\net6.0\appsettings.Development.json
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\bin\Debug\net6.0\appsettings.json
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\bin\Debug\net6.0\BlazorCalculator.staticwebassets.runtime.json
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\bin\Debug\net6.0\BlazorCalculator.exe
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\bin\Debug\net6.0\BlazorCalculator.deps.json
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\bin\Debug\net6.0\BlazorCalculator.runtimeconfig.json
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\bin\Debug\net6.0\BlazorCalculator.dll
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\bin\Debug\net6.0\ref\BlazorCalculator.dll
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\bin\Debug\net6.0\BlazorCalculator.pdb
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.csproj.AssemblyReference.cache
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.AssemblyInfoInputs.cache
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.AssemblyInfo.cs
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.csproj.CoreCompileInputs.cache
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.MvcApplicationPartsAssemblyInfo.cache
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.RazorAssemblyInfo.cache
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.RazorAssemblyInfo.cs
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\staticwebassets.build.json
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\staticwebassets.development.json
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\scopedcss\bundle\BlazorCalculator.styles.css
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\scopedcss\projectbundle\BlazorCalculator.bundle.scp.css
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.dll
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\ref\BlazorCalculator.dll
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.pdb
+F:\Technosoft\Blazor - calculator + todo\BlazorCalculator\obj\Debug\net6.0\BlazorCalculator.genruntimeconfig.cache
